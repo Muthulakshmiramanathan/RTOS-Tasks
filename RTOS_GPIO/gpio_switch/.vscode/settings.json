@@ -1,0 +1,12 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "clangd.path": "C:\\Espressif\\tools\\esp-clang\\esp-18.1.2_20240912\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=c:\\Users\\User\\rtos_tasks\\gpio_switch\\build"
+  ],
+  "idf.currentSetup": "C:\\esp\\v5.4.3\\esp-idf",
+  "idf.flashType": "UART",
+  "idf.portWin": "COM7"
+}
